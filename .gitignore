@@ -1,0 +1,22 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.mat~
+*.fig~
+*.slx.autosave
+*.mdl.autosave
+slprj/
+codegen/
+
+# MATLAB diary and crash logs
+diary
+matlab_crash_dump.*
+
+# Excel temporary lock files
+~$*.xlsx
+~$*.xls
+
+# Operating System clutter
+.DS_Store
+Thumbs.db
+desktop.ini
